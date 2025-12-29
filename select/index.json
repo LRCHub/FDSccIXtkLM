@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "BAAM",
+  "base_artist": "MOMOLAND(모모랜드)",
+  "createdAt": "2025-12-29T11:28:40.152370Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baam",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/01_Baam_MOMOLAND.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BAAM (inst.) (Instrumental)",
+      "artist": "momoland",
+      "has_synced": true,
+      "path": "select/02_BAAM_(inst.)_(Instrumental)_momoland.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BAAM - Japanese ver.",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/03_BAAM_-_Japanese_ver._MOMOLAND.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BAAM -Japanese ver.-",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/04_BAAM_-Japanese_ver.-_MOMOLAND.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BAAM",
+      "artist": "모모랜드 (MOMOLAND)",
+      "has_synced": true,
+      "path": "select/05_BAAM_모모랜드_(MOMOLAND).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Holy Baam - Песня про котят (Серега и Кокос)",
+      "artist": "Video • Holy Baam",
+      "has_synced": true,
+      "path": "select/06_Holy_Baam_-_Песня_про_котят_(Серега_и_Кокос)_Video_•_Holy_Baam.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Holy Baam - Оффлайн",
+      "artist": "Holy Baam",
+      "has_synced": false,
+      "path": "select/07_Holy_Baam_-_Оффлайн_Holy_Baam.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BAAM (Japanese version)",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/08_BAAM_(Japanese_version)_MOMOLAND.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BAAM (inst.)",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/09_BAAM_(inst.)_MOMOLAND.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BAAM -Japanese ver.-",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/10_BAAM_-Japanese_ver.-_MOMOLAND.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mei Vodda (hod an Marihuana-Baam)",
+      "artist": "Hans Söllner",
+      "has_synced": true,
+      "path": "select/11_Mei_Vodda_(hod_an_Marihuana-Baam)_Hans_Söllner.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BAAM",
+      "artist": "MOMOLAND(모모랜드)",
+      "has_synced": true,
+      "path": "select/12_BAAM_MOMOLAND(모모랜드).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baam",
+      "artist": "Momoland",
+      "has_synced": true,
+      "path": "select/13_Baam_Momoland.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BAAM!!! (feat. Mabbs & Macy X)",
+      "artist": "JOSEPHDARY",
+      "has_synced": false,
+      "path": "select/14_BAAM!!!_(feat._Mabbs_&_Macy_X)_JOSEPHDARY.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bääm",
+      "artist": "Mono & Nikitaman",
+      "has_synced": true,
+      "path": "select/15_Bääm_Mono_&_Nikitaman.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bääm",
+      "artist": "Mono und Nikitaman",
+      "has_synced": true,
+      "path": "select/16_Bääm_Mono_und_Nikitaman.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BAAM",
+      "artist": "MOMOLAND",
+      "has_synced": false,
+      "path": "select/pl_01_BAAM_MOMOLAND.txt"
+    }
+  ]
+}
